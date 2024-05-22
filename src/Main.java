@@ -4,14 +4,12 @@ public class Main {
         int count ;
 
         for (i = 0; i < 5; i++) {
-
+            System.out.println();
 
             for (j = 0; j < i; j++) {
                 System.out.println("*");
             }
-
             for (count = 0; count < 5; count++) {
-               
 
                 System.out.print("*");
             }
